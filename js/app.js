@@ -1,5 +1,5 @@
 (function(){
-	console.log("start here"); 
+	
 	"use strict"
 	var app ={
 		url1:null,  
